@@ -1,6 +1,6 @@
 # AI-Assisted Construction Accounting Suite
 
-A standalone bookkeeping and financial management platform designed for construction businesses.
+A workflow-focused bookkeeping and financial management platform designed for construction businesses. Built to streamline operational accounting processes including expense tracking, receivables management, GST/HST reporting, general ledger exports, and financial reporting automation.
 
 ## Features
 
@@ -15,11 +15,12 @@ A standalone bookkeeping and financial management platform designed for construc
 
 ## Technologies Used
 
-- HTML
-- CSS
+- HTML5
+- CSS3
 - JavaScript
-- Browser local storage
-- CSV export automation
+- Browser Local Storage
+- CSV Export Automation
+- AI-Assisted Development Workflow
 
 ## Purpose
 
