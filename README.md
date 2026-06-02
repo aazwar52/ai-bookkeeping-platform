@@ -23,7 +23,7 @@ A standalone bookkeeping and financial management platform designed for construc
 
 ## Purpose
 
-This project was developed to streamline bookkeeping and operational accounting workflows for a construction company through automation and workflow-focused design.
+Construction businesses often manage bookkeeping workflows manually across spreadsheets and disconnected systems. I designed this platform to centralize operational accounting workflows, automate reporting processes, and simplify GST/HST and ledger management for small business operations.
 
 ## Author
 
